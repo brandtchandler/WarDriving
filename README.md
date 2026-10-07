@@ -134,3 +134,7 @@ Treat every drive as an active RF field lab:
 
 * **Stay Passive:** Strictly log beacon and probe broadcast metadata. Never deauthenticate users, attempt handshakes, or connect
 When ready, add a Raspberry Pi + Kismet setup for deeper Linux-based analysis.
+
+## 8. Resources and Callouts
+
+I have learned most of my stuff from Youtube, some of the content creators that I have learned from are: @Valleytechsolutions⁩ @HaleHound07 @BiscuitShop @JustCallMeKoko @N3rdSecTV @Evil-M5project⁩ @GhostStrats⁩ @LILYGO⁩ LOCOSP_WDGWars
