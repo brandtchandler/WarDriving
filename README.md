@@ -112,7 +112,7 @@ Kismet functions as a full-featured RF inspection engine providing a local web U
 * **Portable Handhelds:** Raspi Jack, Clockwork Pi uConsole + Hacker Gadgets AIO, and CYD (Cheap Yellow Display) units running PorkChop or Bruce firmware.
 * **Specialized Rigs:** Hail Hound (optimized for dedicated 2.4 GHz sweeps) or multi-node mesh clusters (Biscuit, Marauder, or Piglet architectures).
 
-> *Note: You do not need every device. Start simple and expand hardware based on the specific bands or protocols you want to study.*
+> *Note: You do not need every device. Start simple and expand hardware based on the specific bands or protocols you want to study. I started by using an old android phone, you can download software to it from the play store, I don't know of any ios devices being used currently.*
 
 ---
 
