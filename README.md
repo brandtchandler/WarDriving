@@ -1,4 +1,4 @@
-# WarDriving-and-Cybersecurity
+# WarDriving
 # Complete Beginner’s Walkthrough: Wardriving for Learning Wireless Security
 
 This guide pulls together everything we’ve discussed into one practical path. It is written for someone new to the hobby who already knows basic Linux and networking, drives regularly, and lives in the United States. 
